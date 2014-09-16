@@ -1,6 +1,6 @@
 # Docker image for Jenkins Enterprise by CloudBees master
 
-FROM apemberton/jenkins-base
+FROM varmenise/jenkins-base
 MAINTAINER Andy Pemberton <apemberton@cloudbees.com>
 
 # Download jenkins.war
