@@ -15,7 +15,7 @@ RUN chmod +x /usr/local/bin/jenkins.sh
 
 USER jenkins
 
-EXPOSE 8080 22 49187
+EXPOSE 8080 22
 
 ENV JENKINS_HOME /var/lib/jenkins
 
